@@ -3,3 +3,6 @@
 文章3
 文章5
 ppoppo01
+charisma
+charisma_add_commit
+charisma_add_commit2
